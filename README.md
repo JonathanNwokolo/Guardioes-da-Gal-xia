@@ -109,3 +109,9 @@ O site se adapta automaticamente a diferentes tamanhos de tela:
 - **Mobile** (< 768px): Sidebar em tela cheia, grid adaptado
 - **Mobile pequeno** (< 480px): Interface otimizada para telas pequenas
 
+<img width="1616" height="825" alt="image" src="https://github.com/user-attachments/assets/104dfe17-23e8-4e16-baaa-85f8bb5aeac8" />
+
+
+https://guardioes-da-gal-xia.vercel.app/
+
+
